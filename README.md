@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Vitor</h1>
 <h3 align="center">I'm Flutter Junior developer :D</h3>
 
-<p><img align="right" src="https://media0.giphy.com/media/smzfl3E7a4iHK/200.gif" /></p>
+<p><img align="center" src="https://media0.giphy.com/media/smzfl3E7a4iHK/200.gif" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitxuxo&label=Profile%20views&color=0e75b6&style=flat" alt="vitxuxo" /> </p>
 
